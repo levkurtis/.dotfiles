@@ -1,2 +1,7 @@
 [init]
 	defaultBranch = main
+[user]
+	email = 68032395+levkurtis@users.noreply.github.com
+	name = Levent Kurtis
+[core]
+	editor = nano
