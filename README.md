@@ -43,6 +43,8 @@ Make it so that the installation file reads the "Brewfile" so that the program c
 
 //////
 # Running script
+```zsh
 cd ~/.dotfiles
 chmod +x makesymlinks.sh
 ./makesymlinks.sh
+```
