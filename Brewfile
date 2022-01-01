@@ -8,16 +8,36 @@ tap "homebrew/core"
 brew "bash"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.9"
+# GNU File, Shell, and Text utilities
+brew "coreutils"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
+# Command-line fuzzy finder written in Go
+brew "fzf"
 # Distributed revision control system
 brew "git"
+# GNU implementation of the famous stream editor
+brew "gnu-sed"
+# GNU grep, egrep and fgrep
+brew "grep"
 # Mac App Store command-line interface
 brew "mas"
+# Collection of tools that nobody wrote when UNIX was young
+brew "moreutils"
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
+# NCurses Disk Usage
+brew "ncdu"
 # Platform built on V8 to build network applications
 brew "node"
+# OpenBSD freely-licensed SSH connectivity tools
+brew "openssh"
 # Version control system designed to be a better CVS
 brew "subversion"
+# Vi 'workalike' with many additional features
+brew "vim"
+# Tracks most-used directories to make cd smarter
+brew "z"
 # UNIX shell (command interpreter)
 brew "zsh"
 # Simple read-only comand-line interface to your Things 3 database
