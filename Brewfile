@@ -10,6 +10,8 @@ brew "bash"
 brew "python@3.9"
 # GNU File, Shell, and Text utilities
 brew "coreutils"
+# Modern replacement for 'ls'
+brew "exa"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
 # Command-line fuzzy finder written in Go
@@ -32,8 +34,14 @@ brew "ncdu"
 brew "node"
 # OpenBSD freely-licensed SSH connectivity tools
 brew "openssh"
+# Zsh prompt for Astronauts
+brew "spaceship"
+# Terminal-based client for Spotify
+brew "spotify-tui"
 # Version control system designed to be a better CVS
 brew "subversion"
+# Simplified and community-driven man pages
+brew "tldr"
 # Vi 'workalike' with many additional features
 brew "vim"
 # Tracks most-used directories to make cd smarter

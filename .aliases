@@ -15,6 +15,7 @@ alias code="cd ~/Code"
 alias chmox='chmod -x'
 alias brwe=brew  #typos
 
+alias spotify="open -ja /Applications/Spotify.app; spt"
 
 alias hosts='sudo $EDITOR /etc/hosts'   # yes I occasionally 127.0.0.1 twitter.com ;)
 

@@ -21,5 +21,15 @@ brew update
 brew tap homebrew/bundle
 brew bundle --file $DOTFILES/Brewfile
 
+# Install Powerline / Fonts
+## clone
+git clone https://github.com/powerline/fonts.git --depth=1
+## install
+cd fonts
+./install.sh
+## clean-up a bit
+cd ..
+rm -rf fonts
+
 # Set macOS preferences - we will run this last because this will reload the shell
 source $DOTFILES/.macos
