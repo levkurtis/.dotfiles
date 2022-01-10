@@ -10,7 +10,6 @@ alias -- -="cd -"
 # Shortcuts
 alias downloads="cd ~/Downloads"
 alias desk="cd ~/Desktop"
-alias code="cd ~/Code"
 
 alias chmox='chmod -x'
 alias brwe=brew  #typos
